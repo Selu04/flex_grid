@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <header>
-        <img src="../resources/logo.png" alt="Logo"/>
+        <img id="logo" src="https://i.imgur.com/WUtsRM9.png" alt="Logo"/>
         <nav>
           <ul className="listaNav">
             <li>Ejemplo 1</li>
@@ -17,13 +17,12 @@ export default function Home() {
       </header>
       <main>
           <div id="imagen1">
-              <img src="../resources/imagen1.png" alt="imagen1" />
           </div>
           <div id="imagen2">
-              <img src="../resources/imagen2.png" alt="imagen2" />
+              
           </div>
           <div id="imagen3">
-              <img src="../resources/imagen3.png" alt="imagen2" />
+              
           </div>
       </main>
       <footer >
